@@ -45,23 +45,19 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![image](https://github.com/stephen291192/googleClone/assets/65404247/454eb330-4707-4232-9e9e-2cf22ecd7109)
+![image](https://github.com/stephen291192/googleClone/assets/65404247/06fce136-a942-4b12-965d-ed241e8d737b)
 
-### Analyzing the Bundle Size
+![image](https://github.com/stephen291192/googleClone/assets/65404247/e1e1dcd5-040f-4c65-b25f-d991295381f8)
+![image](https://github.com/stephen291192/googleClone/assets/65404247/198191b9-f07c-4814-84fb-5a2ac8cf63ec)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![image](https://github.com/stephen291192/googleClone/assets/65404247/240d2a39-e69c-444c-95ea-373f4b29df99)
+![image](https://github.com/stephen291192/googleClone/assets/65404247/1ae2fcdb-d261-4769-a29a-1243ac1831c1)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
